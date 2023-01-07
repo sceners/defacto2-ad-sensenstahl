@@ -1,7 +1,7 @@
 # defacto2-ad-sensenstahl
 defacto2 ad, a 256b advertisement by sensenstahl.
 
-https://defacto2.net/f/b930a5e?
+https://defacto2.net/f/b930a5e
 
 ```
  ................................................
